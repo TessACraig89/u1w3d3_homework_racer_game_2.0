@@ -18,7 +18,6 @@ function FinishLine() {
     $("#finishLine").setAttribute("style", "left: " + this.finishLinePos + "px");
   }
 }
-
 let myFinishLine     = new FinishLine();
 
 
