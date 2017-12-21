@@ -1,3 +1,4 @@
+/// Visualize JS is saying that $ in the GetPlayers is not defined
 function GetPlayers() {
   this.player1   = $("#player1");
   this.player2   = $("#player2");
